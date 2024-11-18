@@ -1,0 +1,23 @@
+
+
+/* .btn-outline-dark button {
+    --bs-btn-color: blue;
+    --bs-btn-border-color: #212529;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: green;
+    } */
+    .btn:hover {
+        color: white;
+        background-color: green;
+       
+    }
+    h1{
+        font-size: 80px;
+        font-family: Impact;
+    }
+
+    p{
+     font-family: "Edu AU VIC WA NT Pre", cursive;
+
+     color:crimson;
+    }
